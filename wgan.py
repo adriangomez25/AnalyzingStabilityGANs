@@ -4,11 +4,11 @@ import torch.nn as nn
 import os 
 import numpy as np 
 import torchvision.transforms as transforms
-from torchvision.datasets import CIFAR
+from torchvision import datasets 
 
 
 
-class WGAN(nn.module):
+class WGAN(nn.Module):
     def __init__(self):
         pass
 
@@ -16,7 +16,7 @@ class WGAN(nn.module):
         pass
 
 
-class ACGAN(nn.module):
+class ACGAN(nn.Module):
     def __init__(self):
         pass
 
