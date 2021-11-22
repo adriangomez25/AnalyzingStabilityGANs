@@ -10,3 +10,11 @@ class WGAN(nn.module):
         pass
 
 
+class ACGAN(nn.module):
+    def __init__(self):
+        pass
+
+    def forward(self):
+        pass
+
+
