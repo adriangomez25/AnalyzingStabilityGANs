@@ -10,7 +10,7 @@ First, let us explain the purpose and process of a basic GAN network. A GAN netw
 
 ### Risk in Experiment
 
-GAN models do not always converge and the outocme of the discriminator may vary considerably throughout the training. Another problem with GANs is mode collapse where a GAN model outputs only a subset of images from the original dataset. Solutions to these problems are implemented via AC-GAN and WGAN. 
+GAN models do not always converge and the outcome of the discriminator may vary considerably throughout the training. Another problem with GANs is mode collapse where a GAN model outputs only a subset of images from the original dataset. Solutions to these problems are implemented via AC-GAN and WGAN. 
 
 ### DC-GAN Notebook 
 
@@ -20,5 +20,6 @@ The DC-GAN model is implemented in the DCGAN.ipynb jupyter notebook with the cod
 
 The WGAN model is implemented in the WGAN.ipynb jupyter notebook with the code to reproduce results.
 
+## ACGAN Notebook
 
-
+The AC-GAN model is implemented in ACGAN.ipynb jupyter notebook with the code to reproduce results
