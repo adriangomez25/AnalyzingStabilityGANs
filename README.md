@@ -23,3 +23,6 @@ The WGAN model is implemented in the WGAN.ipynb jupyter notebook with the code t
 ## ACGAN Notebook
 
 The AC-GAN model is implemented in ACGAN.ipynb jupyter notebook with the code to reproduce results
+
+## Link to Dataset
+https://drive.google.com/drive/folders/13kvdB7GWrFpOsl9a0UgOHMMBjNqCOYeK?usp=sharing
