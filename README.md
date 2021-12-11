@@ -36,6 +36,6 @@ The AC-GAN model is implemented in ACGAN.ipynb jupyter notebook with the code to
 Jupyter notebooks can also be run on google colab via this google drive:
 https://drive.google.com/drive/folders/13kvdB7GWrFpOsl9a0UgOHMMBjNqCOYeK?usp=sharing
 
-ACGAN is in the AC-GANData Folder
-DC-GAN is in the DCGANSampleData Folder
+ACGAN is in the AC-GANData Folder, 
+DC-GAN is in the DCGANSampleData Folder, and
 WGAN is in the WGANSampleData Folder
