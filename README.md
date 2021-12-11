@@ -14,15 +14,15 @@ GAN models do not always converge and the outcome of the discriminator may vary 
 
 ### DC-GAN Notebook 
 
-The DC-GAN model is implemented in the DCGAN.ipynb jupyter notebook with the code to reproduce results. 
+The DC-GAN model is implemented in the DCGAN.ipynb jupyter notebook with the code to reproduce results. Weights for this notebook are stored in the linked google drive due to limitations with GitHub storage.
 
 ### WGAN Notebook 
 
-The WGAN model is implemented in the WGAN.ipynb jupyter notebook in the WGAN folder with the code to reproduce results.
+The WGAN model is implemented in the WGAN.ipynb jupyter notebook in the WGAN folder with the code to reproduce results. Weights for this notebook are stored in the linked google drive due to limitations with GitHub storage.
 
 ## ACGAN Notebook
 
-The AC-GAN model is implemented in ACGAN.ipynb jupyter notebook with the code to reproduce results
+The AC-GAN model is implemented in ACGAN.ipynb jupyter notebook with the code to reproduce results. Weights for this notebook are stored in the linked google drive due to limitations with GitHub storage.
 
-## Link to Dataset
+## Link to Dataset and Weights for each GAN
 https://drive.google.com/drive/folders/13kvdB7GWrFpOsl9a0UgOHMMBjNqCOYeK?usp=sharing
