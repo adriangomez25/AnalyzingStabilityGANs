@@ -18,7 +18,7 @@ The DC-GAN model is implemented in the DCGAN.ipynb jupyter notebook with the cod
 
 ### WGAN Notebook 
 
-The WGAN model is implemented in the WGAN.ipynb jupyter notebook with the code to reproduce results.
+The WGAN model is implemented in the WGAN.ipynb jupyter notebook in the WGAN folder with the code to reproduce results.
 
 ## ACGAN Notebook
 
