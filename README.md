@@ -22,15 +22,15 @@ Results are listed in the report. In summary, GAN training is unstable and the W
 
 ### DC-GAN Notebook 
 
-The DC-GAN model is implemented in the DCGAN.ipynb jupyter notebook with the code to reproduce results. Weights for this notebook are stored in the linked google drive due to limitations with GitHub storage.
+The DC-GAN model is implemented in the DCGAN.ipynb jupyter notebook with the code to reproduce results. Weights for this notebook are stored in the linked google drive due to limitations with GitHub storage. Final weights are stored in "model99.pth" in the DC-GAN Folder on google colab.
 
 ### WGAN Notebook 
 
-The WGAN model is implemented in the WGAN.ipynb jupyter notebook in the WGAN folder with the code to reproduce results. Weights for this notebook are stored in the linked google drive due to limitations with GitHub storage.
+The WGAN model is implemented in the WGAN.ipynb jupyter notebook in the WGAN folder with the code to reproduce results. Weights for this notebook are stored in the linked google drive due to limitations with GitHub storage. Final weights are called "model99.pth" in the WGAN folder. 
 
 ## ACGAN Notebook
 
-The AC-GAN model is implemented in ACGAN.ipynb jupyter notebook with the code to reproduce results. Weights for this notebook are stored in the linked google drive due to limitations with GitHub storage.
+The AC-GAN model is implemented in ACGAN.ipynb jupyter notebook with the code to reproduce results. Weights for this notebook are stored in the linked google drive due to limitations with GitHub storage. ACGAN can also be run on the google drive in Google colab. 
 
 ## Link to Dataset and Weights for each GAN
 https://drive.google.com/drive/folders/13kvdB7GWrFpOsl9a0UgOHMMBjNqCOYeK?usp=sharing
