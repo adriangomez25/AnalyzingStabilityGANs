@@ -33,5 +33,5 @@ The WGAN model is implemented in the WGAN.ipynb jupyter notebook in the WGAN fol
 The AC-GAN model is implemented in ACGAN.ipynb jupyter notebook with the code to reproduce results. Weights for this notebook are stored in the linked google drive due to limitations with GitHub storage. ACGAN can also be run on the google drive in Google colab. 
 
 ## Link to Dataset and Weights for each GAN
-Jupyter notebooks can also be run on google colab via this google drive
+Jupyter notebooks can also be run on google colab via this google drive:
 https://drive.google.com/drive/folders/13kvdB7GWrFpOsl9a0UgOHMMBjNqCOYeK?usp=sharing
