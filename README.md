@@ -12,6 +12,14 @@ First, let us explain the purpose and process of a basic GAN network. A GAN netw
 
 GAN models do not always converge and the outcome of the discriminator may vary considerably throughout the training. Another problem with GANs is mode collapse where a GAN model outputs only a subset of images from the original dataset. Solutions to these problems are implemented via AC-GAN and WGAN. 
 
+### General Method 
+
+Each GAN was trained for 100 epochs and then the results were compared. Hyperparameters and model structures were based off of literature and cited github repos. See the report in this repo for more information.
+
+### Results
+
+Results are listed in the report. In summary, GAN training is unstable and the WGAN algorithm helped limit some of the vanishin gradients and instability that occurs.
+
 ### DC-GAN Notebook 
 
 The DC-GAN model is implemented in the DCGAN.ipynb jupyter notebook with the code to reproduce results. Weights for this notebook are stored in the linked google drive due to limitations with GitHub storage.
