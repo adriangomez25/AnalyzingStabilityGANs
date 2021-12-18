@@ -1,4 +1,4 @@
-## ECE 661 Final Project, Grade Received:100/100
+## ECE 661 Final Project, Grade Received: 100/100
 
 ### General Intro
 
